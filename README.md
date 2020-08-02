@@ -11,10 +11,7 @@ In mathematics, Arnold's Cat Map is a particular **chaotic map** from the torus 
 
 "It is a simple and elegant demonstration and illustration of some of the principles of chaos – namely, underlying order to an apparently random evolution of a system. An image is hit with a transformation that apparently randomizes the original organization of its pixels. However, if iterated enough times, as though by magic, the original image reappears." 
 
-Demo Animation (25 frames)
-===
 
-![Animated Cat](Catmap.gif)
 
 Definition (LaTeX)
 ===
@@ -33,6 +30,10 @@ y
 mod\ 1
 $
 
+Demo Animation (25 frames)
+===
+
+![Animated Cat](Catmap.gif)
 References
 ===
  1. [Gabriel Peterson, University of Houston](https://www.math.uh.edu/~schiu/2017summerLinearAlgebraLab/Lecture_note/lecture7_catmap.pdf)
