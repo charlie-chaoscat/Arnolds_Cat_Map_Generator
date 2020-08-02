@@ -13,26 +13,12 @@ In mathematics, Arnold's Cat Map is a particular **chaotic map** from the **toru
 
 
 
-Definition (LaTeX)
+Definition 
 ===
-Arnold's Cat Map $\ \Gamma: \mathbb{T}^{2} \to \mathbb{T}^{2},\\ s.t.\  \Gamma\begin{pmatrix}\begin{bmatrix}
-x\\
-y
-\end{bmatrix}\end{pmatrix} 
-= \begin{bmatrix}
-2 & 1 \\
-1 & 1
-\end{bmatrix}
-\begin{bmatrix}
-x\\
-y
-\end{bmatrix}
-mod\ 1
-$
 
-This chrome extension is recommended if you want to read LaTeX code on Github
+![](https://latex.codecogs.com/svg.latex?Arnold%27s%5C%20Cat%5C%20Map%5C%20%5CGamma%3A%20%5Cmathbb%7BT%7D%5E%7B2%7D%20%5Cto%20%5Cmathbb%7BT%7D%5E%7B2%7D%2C%5C%5C%20%5C%5Cs.t.%5C%20%5CGamma%5Cbegin%7Bpmatrix%7D%5Cbegin%7Bbmatrix%7D%20x%5C%5C%20y%20%5Cend%7Bbmatrix%7D%5Cend%7Bpmatrix%7D%20%3D%20%5Cbegin%7Bbmatrix%7D%202%20%26%201%20%5C%5C%201%20%26%201%20%5Cend%7Bbmatrix%7D%20%5Cbegin%7Bbmatrix%7D%20x%5C%5C%20y%20%5Cend%7Bbmatrix%7D%20mod%5C%201)
 
-[MathJax Plugin for Github](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima)
+Generated from [Codecogs](http://www.codecogs.com/latex/eqneditor.php)
 
 Demo Animation (25 frames)
 ===
