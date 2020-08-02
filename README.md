@@ -31,12 +31,15 @@ mod\ 1
 $
 
 This chrome extension is recommended if you want to read LaTeX code on Github
+
 [MathJax Plugin for Github](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima)
 
 Demo Animation (25 frames)
 ===
 
 ![Animated Cat](Catmap.gif)
+
+
 References
 ===
  1. [Gabriel Peterson, University of Houston](https://www.math.uh.edu/~schiu/2017summerLinearAlgebraLab/Lecture_note/lecture7_catmap.pdf)
