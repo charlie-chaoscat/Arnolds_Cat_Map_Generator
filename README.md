@@ -28,6 +28,6 @@ Demo Animation (25 frames)
 
 References
 ===
- 1. [Gabriel Peterson, University of Houston](https://www.math.uh.edu/~schiu/2017summerLinearAlgebraLab/Lecture_note/lecture7_catmap.pdf)
+ 1. [Gabriel Peterson, Cornell](http://pages.physics.cornell.edu/~sethna/teaching/562_S03/HW/pset02_dir/catmap.pdf)
  2. [Wikipedia](https://en.wikipedia.org/wiki/Arnold%27s_cat_map)
  
