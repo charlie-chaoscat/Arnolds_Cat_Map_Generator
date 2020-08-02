@@ -20,6 +20,11 @@ Definition
 
 Generated from [Codecogs](http://www.codecogs.com/latex/eqneditor.php)
 
+Used package
+===
+
+numpy, PIL, imageio, os
+
 Demo Animation (25 frames)
 ===
 
