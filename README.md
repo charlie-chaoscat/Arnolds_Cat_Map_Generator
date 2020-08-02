@@ -7,7 +7,7 @@
 Arnold's Cat Map
 ===
 
-In mathematics, Arnold's Cat Map is a particular **chaotic map** from the torus into itself, named after Vladimir  Russian mathematician Vladimir I. Arnold, who discovered it using an image of a **cat** in the 1960s.
+In mathematics, Arnold's Cat Map is a particular **chaotic map** from the **torus** into itself, named after Russian mathematician Vladimir I. Arnold, who discovered it using an image of a **cat** in the 1960s.
 
 "It is a simple and elegant demonstration and illustration of some of the principles of chaos – namely, underlying order to an apparently random evolution of a system. An image is hit with a transformation that apparently randomizes the original organization of its pixels. However, if iterated enough times, as though by magic, the original image reappears." 
 
@@ -29,6 +29,9 @@ y
 \end{bmatrix}
 mod\ 1
 $
+
+This chrome extension is recommended if you want to read LaTeX code on Github
+[MathJax Plugin for Github](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima)
 
 Demo Animation (25 frames)
 ===
