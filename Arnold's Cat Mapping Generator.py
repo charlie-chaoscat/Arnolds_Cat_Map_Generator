@@ -6,7 +6,7 @@
 
 # Package needed
 import numpy as np
-from PIL import Image
+from PIL import Image # or cv2
 import imageio
 import os
 
