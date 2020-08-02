@@ -16,7 +16,7 @@ Demo Animation (25 frames)
 
 ![Animated Cat](Catmap.gif)
 
-Definition (Latex code)
+Definition (LaTeX)
 ===
 Arnold's Cat Map $\ \Gamma: \mathbb{T}^{2} \to \mathbb{T}^{2},\\ s.t.\  \Gamma\begin{pmatrix}\begin{bmatrix}
 x\\
@@ -33,7 +33,8 @@ y
 mod\ 1
 $
 
-### References
+References
 ===
- 1. [Gabriel Peterson, Cornell](https://www.math.uh.edu/~schiu/2017summerLinearAlgebraLab/Lecture_note/lecture7_catmap.pdf)
+ 1. [Gabriel Peterson, University of Houston](https://www.math.uh.edu/~schiu/2017summerLinearAlgebraLab/Lecture_note/lecture7_catmap.pdf)
  2. [Wikipedia](https://en.wikipedia.org/wiki/Arnold%27s_cat_map)
+ 
